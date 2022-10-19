@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **iam@rojanupreti.com**
 
-- 📄 Know about my experiences [https://rojanupreti.com/resume_upreti_rojan.pdf](https://rojanupreti.com/resume_upreti_rojan.pdf)
+- 📄 Know about my experiences [https://resume.rojanupreti.com/](https://resume.rojanupreti.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
