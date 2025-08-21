@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at Atlantic Health Systems
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **HealthCare IT**
 
 - 👨‍💻 Personal site [https://rojanupreti.com](https://rojanupreti.com)
 
