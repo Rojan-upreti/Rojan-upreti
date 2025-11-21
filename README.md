@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working at Atlantic Health Systems
 
-- 🌱 I’m currently learning **HealthCare IT**
+- 🌱 I’m into ** Supply Chain, Business Technology, Transportation, Global Trade, Artificial Intelligence & Health Care IT **
 
 - 👨‍💻 Personal site [https://rojanupreti.com](https://rojanupreti.com)
 
-- 💬 Ask me about **cPanel, Deploying Projects, Magento, WordPress, Woo-commerce**
 
-- 📫 How to reach me **iam@rojanupreti.com**
+- 📫 How to reach me **iam@rojanupreti.com** **rojanupreti.work@gmail.com** 
 
 - 📄 Know about my experiences [https://resume.rojanupreti.com/](https://resume.rojanupreti.com)
 
