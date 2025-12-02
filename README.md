@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rojan-upreti" alt="rojan-upreti" /></a> </p>
 
-- 🔭 I’m currently working at Atlantic Health Systems
+
 
 - 🌱 I’m into ** Supply Chain, Business Technology, Transportation, Global Trade, Artificial Intelligence & Health Care IT **
 
