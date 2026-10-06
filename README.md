@@ -7,7 +7,7 @@
 
 - 🌱 I’m into ** Supply Chain, Business Technology, Transportation, Global Trade, Artificial Intelligence & Health Care IT **
 
-- 👨‍💻 Personal site [https://rojanupreti.com](https://rojanupreti.com)
+- 👨‍💻 Personal site [www.rojanupreti.com](https://rojanupreti.com)
 
 
 - 📫 How to reach me **iam@rojanupreti.com** **rojanupreti.work@gmail.com** 
